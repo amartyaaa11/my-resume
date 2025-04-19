@@ -1,0 +1,58 @@
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #333;
+    line-height: 1.6;
+    padding-top: 56px; 
+}
+
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.boldtext {
+    font-weight: bold;
+    color: #003366;
+    font-size: 1.2rem;
+}
+
+
+.card {
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+}
+
+
+.badge {
+    border-radius: 30px;
+    font-weight: bold;
+}
+
+
+.aboutp {
+    max-width: 800px;
+    line-height: 1.8;
+}
+
+
+.navbar {
+    background-color: #042342 !important;
+}
+
+.nav-link {
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+    color: #00ccff !important;
+}
+
+
+.card {
+    background-color: #e6f0ff;
+    border: none;
+}
